@@ -16,7 +16,7 @@
       "targets": [{
           "type": "sftp",
           "name": "tencentServer",
-          "dir": "/root/source/docker_ci",
+          "dir": "/root/source/docker-ci",
           "host": "42.192.14.104",
           "port": 22,
           "user": "root",
